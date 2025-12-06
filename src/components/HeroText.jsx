@@ -9,7 +9,7 @@ const items = [
     icon: <FiFileText />,
     color: "blue",
     label: "Resume",
-    link: "public/Koushik_resume (1).pdf",
+    link: "/assests/resume.pdf",
   },
 ];
 

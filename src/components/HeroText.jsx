@@ -9,7 +9,7 @@ const items = [
     icon: <FiFileText />,
     color: "blue",
     label: "Resume",
-    link: "/assests/resume.pdf",
+    link: "https://drive.google.com/uc?export=download&id=1z-5YHh6lafzTy5fOpKQcHFmU8lhVaY3j",
   },
 ];
 

@@ -45,7 +45,7 @@ const HeroText = () => {
           />
         </motion.h2>
 
-        {/* 🧠 Your Name (Decrypts after quote) */}
+        {/* Your Name (Decrypts after quote) */}
         <motion.h1
           className="text-5xl font-bold text-white"
           variants={variants}
@@ -64,7 +64,7 @@ const HeroText = () => {
           />
         </motion.h1>
 
-        {/* 🧩 Description and Animated Words */}
+        {/* Description and Animated Words */}
         <div className="flex flex-col items-start mt-6">
           <motion.p
             className="text-5xl font-medium text-neutral-300"
